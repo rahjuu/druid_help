@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BOOST on Druid Online Help</title>
+    <link>https://example.com/concepofdruid/boost/</link>
+    <description>Recent content in BOOST on Druid Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/concepofdruid/boost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is BOOST?</title>
+      <link>https://example.com/concepofdruid/boost/concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/concepofdruid/boost/concept/</guid>
+      <description>BOOST is short for Battery Optimized Overclocking Strategy Tuning, a condition-triggered feature that can increase the frequency of data collecting (GPS and ENV). When BOOST is triggered, the minimal collecting interval can reach 20 seconds (the interval varies on different devices). The conditions that can trigger BOOST are listed below:
+ Voltage
+When the battery voltage is higher than the predefined threshold, BOOST is triggered automatically. When the battery voltage drops back to the threshold, BOOST stops.</description>
+    </item>
+    
+    <item>
+      <title>Benefit of BOOST</title>
+      <link>https://example.com/concepofdruid/boost/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/concepofdruid/boost/howto/</guid>
+      <description>BOOST is designed to portray detailed movement track in a more &amp;ldquo;intelligent&amp;rdquo; way instead of manual intervention. Traditionally, the user has to monitor the device power status constantly so as to modify settings if they want more data without battery drain, while BOOST just automatically regulates the intervals if the charging condition is good and the animal deployed with the device is active.
+When BOOST is triggered, you can get much more GPS fixes than usual.</description>
+    </item>
+    
+  </channel>
+</rss>

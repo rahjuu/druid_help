@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/concepofdruid/boost/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/faq/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/faq/setting_terminal/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/concepofdruid/boost/concept/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/concepofdruid/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/faq/setting_gateway/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/concepofdruid/odba/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/concepofdruid/boost/howto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/data-exporting/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/faq/setting_batch/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/concepofdruid/odba/concept/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/device_setting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/data-exporting/gps/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/data-exporting/env/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/data-exporting/bhv/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/data-exporting/acc/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/terminology/data-exporting/bss/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/faq/setting_effect/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+</urlset>
