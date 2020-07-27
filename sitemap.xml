@@ -3,108 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/</loc>
+    <loc>rahjuu.github.io/druid_help/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/concepofdruid/boost/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/faq/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/setting_terminal/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/faq/setting_terminal/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/setting_gateway/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/concepofdruid/boost/concept/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rahjuu.github.io/druid_help/concepofdruid/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/data-exporting/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/faq/setting_gateway/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/setting_batch/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/concepofdruid/odba/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/concepofdruid/boost/howto/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/device_setting/</loc>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/data-exporting/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/data-exporting/gps/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/faq/setting_batch/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/data-exporting/env/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/data-exporting/bhv/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/concepofdruid/odba/concept/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/data-exporting/acc/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/device_setting/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/data-exporting/gps/</loc>
+    <loc>rahjuu.github.io/druid_help/terminology/data-exporting/bss/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/data-exporting/env/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/setting_effect/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/data-exporting/bhv/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/boost/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/data-exporting/acc/</loc>
+    <loc>rahjuu.github.io/druid_help/faq/odba/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/terminology/data-exporting/bss/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>rahjuu.github.io/druid_help/categories/</loc>
   </url>
   
   <url>
-    <loc>https://rahjuu.github.io/druid_help/faq/setting_effect/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahjuu.github.io/druid_help/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rahjuu.github.io/druid_help/tags/</loc>
+    <loc>rahjuu.github.io/druid_help/tags/</loc>
   </url>
   
 </urlset>
