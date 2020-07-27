@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data exporting on Druid Online Help</title>
-    <link>https://example.com/terminology/data-exporting/</link>
+    <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/</link>
     <description>Recent content in Data exporting on Druid Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/terminology/data-exporting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rahjuu.github.io/druid_help/terminology/data-exporting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GPS data</title>
-      <link>https://example.com/terminology/data-exporting/gps/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/gps/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/gps/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/gps/</guid>
       <description>The table below gives the explanations to the data fields of the exported GPS data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   Longitude Longitude of the GPS fix in degrees, accurate to 7 decimal places.</description>
     </item>
     
     <item>
       <title>ENV data</title>
-      <link>https://example.com/terminology/data-exporting/env/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/env/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/env/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/env/</guid>
       <description>The table below gives the explanations to the data fields of the exported ENV data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   Temperature Environment temperature in Celsius, accurate to 1 decimal place.</description>
     </item>
     
     <item>
       <title>BHV data</title>
-      <link>https://example.com/terminology/data-exporting/bhv/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/bhv/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/bhv/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/bhv/</guid>
       <description>The table below gives the explanations to the data fields of the exported BHV data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   ODBA ODBA value calculated by the device.</description>
     </item>
     
     <item>
       <title>ACC data</title>
-      <link>https://example.com/terminology/data-exporting/acc/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/acc/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/acc/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/acc/</guid>
       <description>The table below gives the explanations to the data fields of the exported ACC data.
    Data field Explanation     Collecting time Time the device collects data, accurate to seconds.   X Value of X-axis on the three-axis acceleration sensor.   Y Value of Y-axis on the three-axis acceleration sensor.   Z Value of Z-axis on the three-axis acceleration sensor.    </description>
     </item>
     
     <item>
       <title>BSS data</title>
-      <link>https://example.com/terminology/data-exporting/bss/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/bss/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/bss/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/bss/</guid>
       <description>The table below gives the explanations to the data fields of the exported BSS data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   Longitude Longitude of the BSS fix in degrees, accurate to 7 decimal places.</description>
     </item>

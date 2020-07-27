@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ODBA on Druid Online Help</title>
-    <link>https://example.com/concepofdruid/odba/</link>
+    <link>https://rahjuu.github.io/druid_help/concepofdruid/odba/</link>
     <description>Recent content in ODBA on Druid Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/concepofdruid/odba/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rahjuu.github.io/druid_help/concepofdruid/odba/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is ODBA</title>
-      <link>https://example.com/concepofdruid/odba/concept/</link>
+      <link>https://rahjuu.github.io/druid_help/concepofdruid/odba/concept/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/concepofdruid/odba/concept/</guid>
+      <guid>https://rahjuu.github.io/druid_help/concepofdruid/odba/concept/</guid>
       <description>ODBA is short for Overall Dynamic Body Acceleration. It is a new acceleration index which quantifies the three-dimensional movement of animals as the value of acceleration and is assumed to be a proxy for activity-specific measurment and has been used in the field of wild animal ecology.
 In Druid Technology, we use a built-in 3-axis accelerometer to collect the acceleration data at the frequency of 25 Hz. Every 10 minutes or 30 minutes, DEBUT devices calculate ODBA value using the collected acceleration data.</description>
     </item>

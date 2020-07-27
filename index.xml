@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DEBUT Online Help on Druid Online Help</title>
-    <link>https://example.com/</link>
+    <link>https://rahjuu.github.io/druid_help/</link>
     <description>Recent content in DEBUT Online Help on Druid Online Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rahjuu.github.io/druid_help/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is BOOST?</title>
-      <link>https://example.com/concepofdruid/boost/concept/</link>
+      <link>https://rahjuu.github.io/druid_help/concepofdruid/boost/concept/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/concepofdruid/boost/concept/</guid>
+      <guid>https://rahjuu.github.io/druid_help/concepofdruid/boost/concept/</guid>
       <description>BOOST is short for Battery Optimized Overclocking Strategy Tuning, a condition-triggered feature that can increase the frequency of data collecting (GPS and ENV). When BOOST is triggered, the minimal collecting interval can reach 20 seconds (the interval varies on different devices). The conditions that can trigger BOOST are listed below:
  Voltage
 When the battery voltage is higher than the predefined threshold, BOOST is triggered automatically. When the battery voltage drops back to the threshold, BOOST stops.</description>
@@ -24,80 +24,80 @@ When the battery voltage is higher than the predefined threshold, BOOST is trigg
     
     <item>
       <title>Benefit of BOOST</title>
-      <link>https://example.com/concepofdruid/boost/howto/</link>
+      <link>https://rahjuu.github.io/druid_help/concepofdruid/boost/howto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/concepofdruid/boost/howto/</guid>
+      <guid>https://rahjuu.github.io/druid_help/concepofdruid/boost/howto/</guid>
       <description>BOOST is designed to portray detailed movement track in a more &amp;ldquo;intelligent&amp;rdquo; way instead of manual intervention. Traditionally, the user has to monitor the device power status constantly so as to modify settings if they want more data without battery drain, while BOOST just automatically regulates the intervals if the charging condition is good and the animal deployed with the device is active.
 When BOOST is triggered, you can get much more GPS fixes than usual.</description>
     </item>
     
     <item>
       <title>What is ODBA</title>
-      <link>https://example.com/concepofdruid/odba/concept/</link>
+      <link>https://rahjuu.github.io/druid_help/concepofdruid/odba/concept/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/concepofdruid/odba/concept/</guid>
+      <guid>https://rahjuu.github.io/druid_help/concepofdruid/odba/concept/</guid>
       <description>ODBA is short for Overall Dynamic Body Acceleration. It is a new acceleration index which quantifies the three-dimensional movement of animals as the value of acceleration and is assumed to be a proxy for activity-specific measurment and has been used in the field of wild animal ecology.
 In Druid Technology, we use a built-in 3-axis accelerometer to collect the acceleration data at the frequency of 25 Hz. Every 10 minutes or 30 minutes, DEBUT devices calculate ODBA value using the collected acceleration data.</description>
     </item>
     
     <item>
       <title>Device setting</title>
-      <link>https://example.com/terminology/device_setting/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/device_setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/terminology/device_setting/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/device_setting/</guid>
       <description>The table below gives the explanations to the data fields on device setting page.
    Data field Explanation     RTL Real time mode. GPS collecting, ENV collecting and BHV collecting work at the highest frequency. Power consumption is high.   STD Standard mode. The default working mode of DEBUT devices.   ECO Ecology, Conservation and Optimization mode. The most energy efficient mode.   STB Standby mode.</description>
     </item>
     
     <item>
       <title>GPS data</title>
-      <link>https://example.com/terminology/data-exporting/gps/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/gps/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/gps/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/gps/</guid>
       <description>The table below gives the explanations to the data fields of the exported GPS data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   Longitude Longitude of the GPS fix in degrees, accurate to 7 decimal places.</description>
     </item>
     
     <item>
       <title>ENV data</title>
-      <link>https://example.com/terminology/data-exporting/env/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/env/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/env/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/env/</guid>
       <description>The table below gives the explanations to the data fields of the exported ENV data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   Temperature Environment temperature in Celsius, accurate to 1 decimal place.</description>
     </item>
     
     <item>
       <title>BHV data</title>
-      <link>https://example.com/terminology/data-exporting/bhv/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/bhv/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/bhv/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/bhv/</guid>
       <description>The table below gives the explanations to the data fields of the exported BHV data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   ODBA ODBA value calculated by the device.</description>
     </item>
     
     <item>
       <title>ACC data</title>
-      <link>https://example.com/terminology/data-exporting/acc/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/acc/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/acc/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/acc/</guid>
       <description>The table below gives the explanations to the data fields of the exported ACC data.
    Data field Explanation     Collecting time Time the device collects data, accurate to seconds.   X Value of X-axis on the three-axis acceleration sensor.   Y Value of Y-axis on the three-axis acceleration sensor.   Z Value of Z-axis on the three-axis acceleration sensor.    </description>
     </item>
     
     <item>
       <title>BSS data</title>
-      <link>https://example.com/terminology/data-exporting/bss/</link>
+      <link>https://rahjuu.github.io/druid_help/terminology/data-exporting/bss/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/terminology/data-exporting/bss/</guid>
+      <guid>https://rahjuu.github.io/druid_help/terminology/data-exporting/bss/</guid>
       <description>The table below gives the explanations to the data fields of the exported BSS data.
    Data field Explanation     SN Serial Number.   UUID Universally Unique Identifier, a 128-bit number used to identify information in computer systems.   Transmitting time Time the device communicates with the server, accurate to milliseconds.   Collecting time Time the device collects data, accurate to seconds.   Longitude Longitude of the BSS fix in degrees, accurate to 7 decimal places.</description>
     </item>
